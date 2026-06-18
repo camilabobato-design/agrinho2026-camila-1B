@@ -24,5 +24,54 @@ z-index: 1000;
     transition:color 0,2s;
 }
 .cabecalho-menu-botao
+background-color:
+color: red
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.problema-paragrafo{
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color::after
+}
+
+.problema.imagem{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.problema-foto{
+    width: 100%;
+    max-width: 550px;
+    heigth: auto;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px chocolate
 }
